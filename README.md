@@ -1,4 +1,4 @@
-jumpLin
+jumpLin (Note: We have a JumpWin function for power shell windows)
 
 jumpLin is a simple jump function added to your ~/.bashrc to create a shortcut system for directories.
 
