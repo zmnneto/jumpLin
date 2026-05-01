@@ -1,6 +1,6 @@
 jumpLin (Note: We have a JumpWin function for power shell windows)
 
-jumpLin is a simple jump function added to your ~/.bashrc to create a shortcut system for directories.
+jumpLin is a simple jump function added to your ~/.bashrc, that was created on Fedora to create a shortcut system for directories.
 
 Instead of typing:
 
